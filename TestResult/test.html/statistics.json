@@ -1,0 +1,50 @@
+{
+  "TC_01_jpetsotore_01_Catalog" : {
+    "transaction" : "TC_01_jpetsotore_01_Catalog",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1746.5,
+    "medianResTime" : 1746.5,
+    "minResTime" : 1573.0,
+    "maxResTime" : 1920.0,
+    "pct1ResTime" : 1920.0,
+    "pct2ResTime" : 1920.0,
+    "pct3ResTime" : 1920.0,
+    "throughput" : 1.041124414367517,
+    "receivedKBytesPerSec" : 5.555374804789172,
+    "sentKBytesPerSec" : 0.15047501301405516
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 8,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 828.0,
+    "medianResTime" : 571.5,
+    "minResTime" : 421.0,
+    "maxResTime" : 1920.0,
+    "pct1ResTime" : 1920.0,
+    "pct2ResTime" : 1920.0,
+    "pct3ResTime" : 1920.0,
+    "throughput" : 1.2319063751154913,
+    "receivedKBytesPerSec" : 4.8909329765937795,
+    "sentKBytesPerSec" : 0.29354019094548817
+  },
+  "TC_01_jpetsotore_02_Dogs" : {
+    "transaction" : "TC_01_jpetsotore_02_Dogs",
+    "sampleCount" : 6,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 521.8333333333333,
+    "medianResTime" : 544.0,
+    "minResTime" : 421.0,
+    "maxResTime" : 599.0,
+    "pct1ResTime" : 599.0,
+    "pct2ResTime" : 599.0,
+    "pct3ResTime" : 599.0,
+    "throughput" : 1.6953941791466516,
+    "receivedKBytesPerSec" : 5.9592663888103985,
+    "sentKBytesPerSec" : 0.45696171234812094
+  }
+}

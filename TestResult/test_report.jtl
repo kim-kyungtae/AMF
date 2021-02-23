@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1613713680720,1114,TC_01_jpetsotore_01_Catalog,200,,TC_01_jpetsotore_Dogs 1-1,text,true,,5464,145,2,2,https://petstore.octoperf.com/actions/Catalog.action,1113,0,808
+1613713681149,931,TC_01_jpetsotore_01_Catalog,200,,TC_01_jpetsotore_Dogs 1-2,text,true,,5464,145,2,2,https://petstore.octoperf.com/actions/Catalog.action,931,0,626
+1613713682844,315,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-1,text,true,,3465,273,2,2,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=9E57448F1CC7D24D9638A2D3E696CB13?viewCategory=&categoryId=BIRDS,315,0,0
+1613713683088,311,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-2,text,true,,3727,272,2,2,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=7C32B1FA02FA81F11FA75254AC93DBA5?viewCategory=&categoryId=FISH,311,0,0
+1613713684162,328,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-1,text,true,,4011,272,2,2,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=9E57448F1CC7D24D9638A2D3E696CB13?viewCategory=&categoryId=DOGS,328,0,0
+1613713684404,316,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-2,text,true,,3467,276,2,2,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=7C32B1FA02FA81F11FA75254AC93DBA5?viewCategory=&categoryId=REPTILES,316,0,0
+1613713685491,316,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-1,text,true,,3461,272,2,2,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=9E57448F1CC7D24D9638A2D3E696CB13?viewCategory=&categoryId=CATS,316,0,0
+1613713685726,381,TC_01_jpetsotore_02_Dogs,200,,TC_01_jpetsotore_Dogs 1-2,text,true,,3465,273,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=7C32B1FA02FA81F11FA75254AC93DBA5?viewCategory=&categoryId=BIRDS,381,0,0
